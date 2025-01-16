@@ -17,7 +17,7 @@
 MAJOR := 0
 MINOR := 16
 PATCH := 2
-LABEL := -test2
+LABEL := -coprocessor2
 VERSION := $(MAJOR).$(MINOR).$(PATCH)$(LABEL)
 
 TOOLS_DEB    := machine-emulator-tools-v$(VERSION).deb
